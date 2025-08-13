@@ -1,0 +1,25 @@
+img {
+    width: 25%;
+}
+
+h1, h2, h3 {
+    font-family:'Times New Roman';
+}
+
+h1, h2{
+    background-color: goldenrod;
+}
+
+h3{
+    color: white;
+    background-color: blueviolet;
+    
+    
+}
+
+body {
+    font-family: 'Trebuchet MS';
+    
+
+
+}
